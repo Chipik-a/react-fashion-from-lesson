@@ -1,0 +1,13 @@
+.favourite {
+    margin-bottom: 140px;
+}
+
+.favourite__header {
+    margin-bottom: 110px;
+}
+
+.favourite__cards {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 30px;
+}

@@ -1,7 +1,11 @@
 :root {
     --textColor: #000;
+    --textBanner: #231300;
     --yellow: #EBD96B;
     --grey: #7F7F7F;
+    --easygrey: #7C7C7C;
+    --yellowbg: #E5C643;
+    --footer: #8E8E8E;
 }
 
 body {
@@ -37,6 +41,7 @@ body {
 
     background-image: url('./../img/icons/Vector_8.svg');
     background-repeat: no-repeat;
-
 }
+
+
 
